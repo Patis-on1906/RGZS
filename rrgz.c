@@ -6,6 +6,8 @@
 #include <locale.h>
 
 
+// Здесь всякие функции, а это просто коммент просто так
+
 void dectox_int(unsigned long long int number, unsigned long long int osn, char* s);
 int Input(int* k);
 int CheckSystem(int osnovanie);
